@@ -1,0 +1,12 @@
+var text_location = document.getElementById("subtitle");
+var splash = new Array ();splash[0] = "Mainly if they have a dick and balls or not";
+splash[1] = "It's better if the little boys look like fembois";
+splash[2] = "I love fondling little boys";
+splash[3] = "Men have tits too";
+splash[4] = "What the fuck is a pussy clamp?";
+splash[6] = "IT'S ABOUT MEN! IT'S ABOUT ANAL";
+splash[7] = "I will have the rock penis";
+splash[8] = "I can get a dick grip for my gun";
+splash[9] = "the dickasourice";
+var i = Math.floor(9*Math.random());
+text_location.innerHTML = splash[i];
