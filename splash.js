@@ -42,5 +42,5 @@ splash[40] = "Bitch, I have two fathers";
 splash[41] = "I'm pretty sure if this group chat got leaked Me, Gabe, and maybe Ryden would be put in prison";
 splash[42] = "I squeezed out the baby yet I have no idea who the father is";
 splash[43] = "I am Adolf Hitler Commander of the Third Reich Little known fact: Also dope on the mic You are Vader with your little boots and cape and helmet to cover up that burnt-ass face You have the force to move objects I am a truly evil force even went back in time and turned you whack back into a prequel Cause look at you you're not even a real person I preferred you in Spaceballs the Rick Moranis version";
-var i = Math.floor(44*Math.random());
+var i = Math.floor(43*Math.random());
 text_location.innerHTML = splash[i];
