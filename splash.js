@@ -15,5 +15,6 @@ splash[13] = "It's gay now";
 splash[14] = "I'm gonna die now";
 splash[15] = "I'm going to tbag your body";
 splash[16] = "Send ball pics now";
+splash[17] = "Go back to dying";
 var i = Math.floor(16*Math.random());
 text_location.innerHTML = splash[i];
